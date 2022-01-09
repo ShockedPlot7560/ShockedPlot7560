@@ -20,3 +20,7 @@ jobs:
           plugin_habits_charts: yes
           plugin_languages: yes
           plugin_isocalendar: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes  
+          plugin_pagespeed_screenshot: no  
+          plugin_pagespeed_url: shockedplot7560.tk            
