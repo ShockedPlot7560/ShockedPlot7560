@@ -1,1 +1,0 @@
-![Metrics](https://github.com/ShockedPlot7560/ShockedPlot7560/blob/main/github-metrics.svg)
